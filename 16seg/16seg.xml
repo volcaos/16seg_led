@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/takeshi/Desktop/16seg/16seg.sch</source>
+    <date>2017/04/09 3:40:15</date>
+    <tool>Eeschema 4.0.1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>16seg.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E39D7A</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E39DAF</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E39DE6</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E39F30</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_01X10</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3B920</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3C9CF</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3C9D5</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3C9DB</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3C9E1</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_01X10</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="CONN_01X10"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3CAF9</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D07B</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D081</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D087</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D08D</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D0A3</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D0A9</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D0AF</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>OSTB0603C1C-A</value>
+      <footprint>myfootprint:OSTB0603C1C-A</footprint>
+      <libsource lib="OSTB0603C1C-A" part="OSTB0603C1C-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58E3D0B5</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="CONN_01X10">
+      <description>Connector 01x10</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X10</fp>
+        <fp>Pin_Header_Angled_1X10</fp>
+        <fp>Socket_Strip_Straight_1X10</fp>
+        <fp>Socket_Strip_Angled_1X10</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OSTB0603C1C-A" part="OSTB0603C1C-A">
+      <footprints>
+        <fp>OSTB0603C1C-A</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">OSTB0603C1C-A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Common" type="passive"/>
+        <pin num="2" name="Red" type="passive"/>
+        <pin num="3" name="Blue" type="passive"/>
+        <pin num="4" name="Green" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="OSTB0603C1C-A">
+      <uri>C:\Users\takeshi\Desktop\16seg\library\OSTB0603C1C-A.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="G">
+      <node ref="D16" pin="4"/>
+      <node ref="D4" pin="4"/>
+      <node ref="D2" pin="4"/>
+      <node ref="D1" pin="4"/>
+      <node ref="D3" pin="4"/>
+      <node ref="P1" pin="6"/>
+      <node ref="D15" pin="4"/>
+      <node ref="D14" pin="4"/>
+      <node ref="D13" pin="4"/>
+      <node ref="D7" pin="4"/>
+      <node ref="D6" pin="4"/>
+      <node ref="D10" pin="4"/>
+      <node ref="D5" pin="4"/>
+      <node ref="D11" pin="4"/>
+      <node ref="D9" pin="4"/>
+      <node ref="D12" pin="4"/>
+      <node ref="D8" pin="4"/>
+    </net>
+    <net code="2" name="C04">
+      <node ref="D4" pin="1"/>
+      <node ref="P2" pin="3"/>
+    </net>
+    <net code="3" name="C05">
+      <node ref="D5" pin="1"/>
+      <node ref="P2" pin="4"/>
+    </net>
+    <net code="4" name="C08">
+      <node ref="P2" pin="5"/>
+      <node ref="D8" pin="1"/>
+    </net>
+    <net code="5" name="C10">
+      <node ref="D10" pin="1"/>
+      <node ref="P2" pin="7"/>
+    </net>
+    <net code="6" name="C11">
+      <node ref="P2" pin="8"/>
+      <node ref="D11" pin="1"/>
+    </net>
+    <net code="7" name="C12">
+      <node ref="P2" pin="9"/>
+      <node ref="D12" pin="1"/>
+    </net>
+    <net code="8" name="C09">
+      <node ref="P1" pin="4"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="9" name="R">
+      <node ref="D15" pin="2"/>
+      <node ref="P2" pin="6"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="D10" pin="2"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D11" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="D9" pin="2"/>
+      <node ref="D16" pin="2"/>
+      <node ref="D13" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D12" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="10" name="B">
+      <node ref="D3" pin="3"/>
+      <node ref="D4" pin="3"/>
+      <node ref="D12" pin="3"/>
+      <node ref="D8" pin="3"/>
+      <node ref="D5" pin="3"/>
+      <node ref="D7" pin="3"/>
+      <node ref="D10" pin="3"/>
+      <node ref="D6" pin="3"/>
+      <node ref="D11" pin="3"/>
+      <node ref="D2" pin="3"/>
+      <node ref="D16" pin="3"/>
+      <node ref="D9" pin="3"/>
+      <node ref="D13" pin="3"/>
+      <node ref="D14" pin="3"/>
+      <node ref="D15" pin="3"/>
+      <node ref="P1" pin="7"/>
+      <node ref="D1" pin="3"/>
+    </net>
+    <net code="11" name="Net-(P1-Pad5)">
+      <node ref="P1" pin="5"/>
+    </net>
+    <net code="12" name="C13">
+      <node ref="P1" pin="8"/>
+      <node ref="D13" pin="1"/>
+    </net>
+    <net code="13" name="C03">
+      <node ref="D3" pin="1"/>
+      <node ref="P2" pin="2"/>
+    </net>
+    <net code="14" name="C14">
+      <node ref="D14" pin="1"/>
+      <node ref="P1" pin="9"/>
+    </net>
+    <net code="15" name="C15">
+      <node ref="D15" pin="1"/>
+      <node ref="P2" pin="10"/>
+    </net>
+    <net code="16" name="C16">
+      <node ref="P1" pin="10"/>
+      <node ref="D16" pin="1"/>
+    </net>
+    <net code="17" name="C02">
+      <node ref="P1" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="18" name="C01">
+      <node ref="D1" pin="1"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="19" name="C06">
+      <node ref="D6" pin="1"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="20" name="C07">
+      <node ref="P1" pin="3"/>
+      <node ref="D7" pin="1"/>
+    </net>
+  </nets>
+</export>
